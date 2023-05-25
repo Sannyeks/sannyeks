@@ -20,7 +20,7 @@
 
 | **GitHub Analytics** | **GitHub Stats** |
 |----------------------|---------------|
-| ![Statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannyeks&layout=compact&theme=github_dark&border_color=1d1d1f&card_width=400) | ![Statistic](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Sannyeks}&theme={tokyonight})
+| ![Statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannyeks&layout=compact&theme=github_dark&border_color=1d1d1f&card_width=400) | [tp://github-profile-summary-cards.vercel.app/api/cards/stats?username={Sannyeks}&theme={tokyonight}]
 
 
 ---
