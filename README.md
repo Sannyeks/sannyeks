@@ -20,7 +20,7 @@
 
 | **GitHub Analytics** | **GitHub Stats* |
 |----------------------|---------------|
-| ![Statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannyeks&layout=compact&theme=github_dark&border_color=1d1d1f&card_width=400) | [![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannyeks&layout=compact)](https://github.com/Sannyeks/github-readme-stats)
+| ![Statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannyeks&layout=compact&theme=github_dark&border_color=1d1d1f&card_width=400) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sannyeks&show_icons=true&theme=tokyonight)
 ---
 
 
