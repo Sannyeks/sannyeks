@@ -33,7 +33,6 @@
 [<img align="left" src="https://user-images.githubusercontent.com/96209694/197349355-31009bb6-8171-4533-adf5-2d1f60d00230.png" style="width:50px; height:50px" >](https://www.linkedin.com/in/oleksandr-yushchenk0/) 
 [<img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" style="width:50px; height:50px" >](https://t.me/OleksandrYushchenko1)
 
----
 
 <!--
 **Sannyeks/sannyeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
