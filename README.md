@@ -6,7 +6,7 @@
  - :seedling: I’m currently learning JavaScript, React, NodeJs.
  - :milky_way: I create beautiful and productive applications
  - :envelope: Write to me if you want to work together. I am interested in developing awesome and creative applications.
-   I am open to any kind of cooperation, such as volunteer projects, startups, product projects. 
+   I am open to any kind of cooperation, such as volunteer projects, startups, product projects and etc. 
 ---
 
 ### Pet projects 
