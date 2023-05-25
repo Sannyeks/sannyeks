@@ -16,8 +16,7 @@
 - [Freelancer Portfolio](https://sannyeks.github.io/freelancer-portfolio/) [[Github](https://github.com/Sannyeks/freelancer-portfolio)]
 
 ---
-
-
+### Github Stats
 | **GitHub Analytics** | **GitHub Stats** |
 |----------------------|---------------|
 | ![Statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannyeks&layout=compact&theme=github_dark&border_color=1d1d1f&card_width=400) | ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sannyeks&show_icons=true&theme=nord_dark&card_width=400)
