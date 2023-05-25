@@ -1,12 +1,13 @@
 ### Hi there 👋
-<!--
-**Sannyeks/sannyeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### About Me
  - :telescope: I’m Front-end developer.
  - :seedling: I’m currently learning JavaScript, React, NodeJs.
  - :milky_way: I create beautiful and productive applications
 ---
+<!--
+**Sannyeks/sannyeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
