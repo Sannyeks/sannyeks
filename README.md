@@ -14,6 +14,16 @@
 - [Phonebook](https://sannyeks.github.io/goit-react-hw-08-phonebook/) [[Github](https://github.com/Sannyeks/goit-react-hw-08-phonebook)]
 - [GoTrip](https://sannyeks.github.io/GoTrip/) [[Github](https://github.com/Sannyeks/GoTrip)]
 - [Freelancer Portfolio](https://sannyeks.github.io/freelancer-portfolio/) [[Github](https://github.com/Sannyeks/freelancer-portfolio)]
+
+---
+
+
+| **GitHub Analytics** | **GitHub Stats* |
+|----------------------|---------------|
+| ![Statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannyeks&layout=compact&theme=github_dark&border_color=1d1d1f&card_width=400) | [![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannyeks&layout=compact)](https://github.com/Sannyeks/github-readme-stats)
+---
+
+
 <!--
 **Sannyeks/sannyeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
