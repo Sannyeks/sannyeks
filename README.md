@@ -21,7 +21,7 @@
 | **GitHub Analytics** | **GitHub Stats** |
 |----------------------|---------------|
 | ![Statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannyeks&layout=compact&theme=github_dark&border_color=1d1d1f&card_width=400) | <a href="https://github.com/Sannyeksithub-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sannyeks&repo=github-readme-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Sannyeks&repo=github-readme-stats" />
 </a>
 
 
