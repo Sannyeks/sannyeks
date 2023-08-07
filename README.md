@@ -19,9 +19,10 @@
 
 ---
 ### Github Stats
-| **GitHub Analytics** | **GitHub Stats** |
-|----------------------|---------------|
-| ![Statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannyeks&layout=compact&theme=github_dark&border_color=1d1d1f&card_width=400) | ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sannyeks&show_icons=true&theme=nord_dark&card_width=400)
+<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sannyeks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&bg_color=00000000&text_color=d2d2d2" height="150"  alt="stats graph"  />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sannyeks&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=false&bg_color=00000000&text_color=d2d2d2" height="150"  alt="languages graph"  />
+</div>
 ---
 
 ### My Stack Technologies
