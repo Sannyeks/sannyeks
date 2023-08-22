@@ -10,7 +10,7 @@
 ---
 
 ### Pet projects 
-- [Web Studio](https://sannyeks.github.io/goit-markup-hw-08/) [[Github](https://github.com/Sannyeks/goit-markup-hw-08)]
+- [Web Studio](https://github.com/Sannyeks/WebStudio/) [[Github](https://github.com/Sannyeks/goit-markup-hw-08)]
 - [Shop for Gamers](https://sannyeks.github.io/shop-for-gamers/) [[Github](https://github.com/Sannyeks/shop-for-gamers)]
 - [News Page](https://sannyeks.github.io/news-page/) [[Github](https://github.com/Sannyeks/news-page)]
 - [Phonebook](https://sannyeks.github.io/goit-react-hw-08-phonebook/) [[Github](https://github.com/Sannyeks/goit-react-hw-08-phonebook)]
